@@ -76,10 +76,10 @@ const cursorSpan = document.querySelector('.cursor');
 
 const textArray = [
     'Full-Stack Developer',
-    'Web Designer',
+    'Software Engineer',
     'Problem Solver',
     'Creative Thinker',
-    'Oracle'
+    'The Oracle Money'
 ];
 const typingDelay = 100;
 const erasingDelay = 50;
